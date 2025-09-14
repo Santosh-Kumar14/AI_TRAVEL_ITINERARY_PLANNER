@@ -6,8 +6,8 @@
 - **Create a Dockerfile**  
   Write a `Dockerfile` in the root of your project to containerize the app.
 
-- **Create Kubernetes Deployemtn file**  
-  Make a file named 'llmops-k8s.yaml' 
+- **Create Kubernetes Deployment file**  
+  Make a file named 'k8s-deployment.yaml' 
 
 - **Create a VM Instance on Google Cloud**
 
@@ -35,9 +35,9 @@
 - **Clone your GitHub repo**
 
   ```bash
-  git clone https://github.com/data-guru0/TESTING-9.git
+  git clone https://github.com/data-guru0/TESTING-9.git](https://github.com/Santosh-Kumar14/AI_TRAVEL_ITINERARY_PLANNER.git
   ls
-  cd TESTING-9
+  cd AI_TRAVEL_ITINERARY_PLANNER
   ls  # You should see the contents of your project
   ```
 
